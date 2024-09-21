@@ -1,39 +1,4 @@
-/* body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f4f4f4;
-}
 
-.container {
-    text-align: center;
-}
-
-#qr-canvas {
-    display: none;
-}
-
-h1 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-}
-
-#qr-file {
-    margin-bottom: 1rem;
-}
-
-#qr-result {
-    font-size: 1.2rem;
-    margin-top: 1rem;
-    color: green;
-}
- */
-
-
-/* Reset some default styling */
 * {
     margin: 0;
     padding: 0;
@@ -41,7 +6,6 @@ h1 {
     font-family: 'Arial', sans-serif;
 }
 
-/* Center everything within the page */
 body {
     display: flex;
     justify-content: center;
